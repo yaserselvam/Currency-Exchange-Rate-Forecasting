@@ -40,8 +40,8 @@ Accurate forecasting of currency exchange rates is critical for businesses, trad
 1.	Clone the repository:
    
 ```bash
-git clone https://github.com/yaserselvam/demand-forecasting-optimization.git
-cd demand-forecasting-optimization
+git clone https://github.com/yaserselvam/Currency-Exchange-Rate-Forecasting.git
+cd Currency-Exchange-Rate-Forecasting
 ```
 
 2.	Run the Jupyter Notebooks:
